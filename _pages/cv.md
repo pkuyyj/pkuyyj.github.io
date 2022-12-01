@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# EDUCATION BACKGROUND
+## EDUCATION BACKGROUND
 PEKING UNIVERSITY	2019.9-Present
 
 School of Electronics Engineering and Computer Science
@@ -16,7 +16,7 @@ B.S. in Computer Science
 
 Expected Date of Graduate: 2023.7
 
-# EXPERIENCE
+## EXPERIENCE
 * ASC20-21 Student Supercomputer Challenge *2021.5 | Shenzhen, China*
 
   Participate in the competition as a representative of Peking University and win First Prize (team best)
@@ -34,7 +34,7 @@ Expected Date of Graduate: 2023.7
   Uni-Dock + ML: combine physical force fields of Uni-Dock with pre-trained molecular representation ML framework, improving molecular docking pose accuracy from 69% to 86%
   - Contribution: 1) design correction of physical force fields using ML to enhance the accuracy of Monte Carlo searches of poses, patented as an invention; 2) improve the probability of hit compound identification in early virtual screening
 
-# EXTRACURRICULAR ACTIVITY
+## EXTRACURRICULAR ACTIVITY
 * ADA Innovation Fair 2020 	*2020.8 | Online, Toronto*
 
   Develop an application prototype called E-PEDIA for college students course selection during the epidemic
@@ -45,17 +45,17 @@ Expected Date of Graduate: 2023.7
   
   Win the Third Prize in AI for Science track as team leader: migration of Uni-Dock from NVIDIA Volta to ROCm architecture hardware with linear scalability on 1000+ nodes
 
-# PUBLICATIONS
+## PUBLICATIONS
 * Yu, Y., Cai C., Zhu Z., Zheng H., 2022. Uni-Dock: A GPU-Accelerated Docking Program Enables Ultra-Large Virtual Screening. DOI: 10.26434/chemrxiv-2022-5t5ts
 
-# AWARDS AND CERTIFICATES
-* Computer software copyright of Uni-Dock, National Copyright Administration			2022.5 | Beijing,China 
-* Second Class Scholarship, Peking University									      2021.9 | Beijing,China 
-* Ubiquant Investment Scholarship, Peking University								2022.9 | Beijing,China 
-* Learning Excellence Award, Peking University									2021.9 | Beijing,China 
-* Outstanding Scientific Research Award, Peking University							2022.9 | Beijing,China 
+## AWARDS AND CERTIFICATES
+* Computer software copyright of Uni-Dock, National Copyright Administration	*2022.5 | Beijing,China*
+* Second Class Scholarship, Peking University	 *2021.9 | Beijing,China*
+* Ubiquant Investment Scholarship, Peking University	*2022.9 | Beijing,China*
+* Learning Excellence Award, Peking University	*2021.9 | Beijing,China*
+* Outstanding Scientific Research Award, Peking University	*2022.9 | Beijing,China*
 
-# SKILLS AND HOBBIES
+## SKILLS AND HOBBIES
 * Languages					Mandarin (Native), English Fluent (TOEFL 108 S25, GRE 328+4.0)
 * Programming Languages		C/C++, CUDA, Python, Bash, JavaScript, HTML
 * High Performance Computing	Performance profiling & optimizations, MPI, OpenMP, OpenACC
