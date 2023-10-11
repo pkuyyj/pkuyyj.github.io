@@ -1,7 +1,6 @@
 ---
 title: "Do deep learning models really outperform traditional approaches in molecular docking?"
 collection: publications
-permalink: /publication/2023-03-06-Do-deep-learning-models-really-outperform-traditional-approaches-in-molecular-docking?
 excerpt: 'We benchmark deep learning models and traditional methods for molecular docking, and find traditional methods are still better.'
 date: 2023-03-06
 venue: 'ICLR 2023 MLDD workshop(oral)'
