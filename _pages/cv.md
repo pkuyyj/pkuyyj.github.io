@@ -8,13 +8,23 @@ redirect_from:
 ---
 
 ## EDUCATION BACKGROUND
-PEKING UNIVERSITY	2019.9-Present
+
+ETH Zurich 2023.9-present
+
+Department of Computer Science
+
+Direct Doctorate
+
+Expected Date of MSc Graduate: 2023.7
+
+
+PEKING UNIVERSITY	2019.9-2023.7
 
 School of Electronics Engineering and Computer Science
 
 B.S. in Computer Science
 
-Expected Date of Graduate: 2023.7
+
 
 ## EXPERIENCE
 * ASC20-21 Student Supercomputer Challenge *2021.5 Shenzhen, China*
@@ -46,7 +56,9 @@ Expected Date of Graduate: 2023.7
   Win the Third Prize in AI for Science track as team leader: migration of Uni-Dock from NVIDIA Volta to ROCm architecture hardware with linear scalability on 1000+ nodes
 
 ## PUBLICATIONS
-* Yu, Y., Cai C., Zhu Z., Zheng H., 2022. Uni-Dock: A GPU-Accelerated Docking Program Enables Ultra-Large Virtual Screening. DOI: 10.26434/chemrxiv-2022-5t5ts
+* Yu, Y., Cai, C., Wang, J., Bo, Z., Zhu, Z., & Zheng, H. (2023). Uni-Dock: GPU-accelerated docking enables ultralarge virtual screening. Journal of chemical theory and computation, 19(11), 3336-3345.
+* Yu, Y., Lu, S., Gao, Z., Zheng, H., & Ke, G. (2023). Do deep learning models really outperform traditional approaches in molecular docking?. arXiv preprint arXiv:2302.07134.
+* Huang, L., Gianinazzi, L., Yu, Y., Dueben, P. D., & Hoefler, T. (2024). Diffda: a diffusion model for weather-scale data assimilation. arXiv preprint arXiv:2401.05932.
 
 ## AWARDS AND CERTIFICATES
 * Computer software copyright of Uni-Dock, National Copyright Administration	*2022.5 Beijing,China*
