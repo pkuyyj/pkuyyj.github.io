@@ -15,7 +15,7 @@ Department of Computer Science
 
 Direct Doctorate
 
-Expected Date of MSc Graduate: 2023.7
+Expected Date of MSc Graduate: 2025.9
 
 
 PEKING UNIVERSITY	2019.9-2023.7
